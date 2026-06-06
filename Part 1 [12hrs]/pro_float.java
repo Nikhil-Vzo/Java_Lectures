@@ -1,5 +1,5 @@
 import java.util.*;
-class floato {
+class pro_float {
     public static void main(String[] args)
         {
             Scanner nikhil = new Scanner(System.in);

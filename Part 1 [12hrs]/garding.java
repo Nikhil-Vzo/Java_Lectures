@@ -1,5 +1,5 @@
 import java.util.*;
-public class garding_18
+public class garding
 {
     public static void main(String[] args) {
         Scanner nikhil=new Scanner(System.in);

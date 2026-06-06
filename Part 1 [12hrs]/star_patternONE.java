@@ -1,4 +1,4 @@
-class star1
+class star_patternONE
 {
     public static void main(String [] args)
     {

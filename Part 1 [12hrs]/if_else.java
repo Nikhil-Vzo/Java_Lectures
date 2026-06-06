@@ -1,5 +1,5 @@
 import java.util.*;
-class ifElse_statement
+class if_else
 {
     public static void main(String []args)
     {

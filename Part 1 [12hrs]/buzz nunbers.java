@@ -1,5 +1,5 @@
 import java.util.*;
-class akhil {
+class buzz_nunbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("enter a no");

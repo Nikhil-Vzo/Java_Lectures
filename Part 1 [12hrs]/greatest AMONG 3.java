@@ -1,5 +1,5 @@
 import java.util.*;
-class nikhil3
+class greatest_AMONG_3
 {
     public static void main(String []args)
     {

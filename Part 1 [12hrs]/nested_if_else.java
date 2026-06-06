@@ -1,5 +1,5 @@
 import java.util.*;
-class nestedIFELSE
+class nested_if_else
 {
     public static void main(String[] args)
     {

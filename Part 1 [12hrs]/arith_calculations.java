@@ -1,5 +1,5 @@
 import java.util.*;
-class input
+class arith_calculations
 {
     public static void main(String[] args) {
         {

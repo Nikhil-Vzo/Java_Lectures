@@ -1,4 +1,4 @@
-class ew
+class operaor_precedence
 {
     public static void main(String[] args)
     {

@@ -1,7 +1,7 @@
 // wap to check whether a no. is +ve -ve or zero
 
 import java.util.*;
-class Nikhil
+class check_postoive_or_negative
 {
     public static void main(String []args)
     {

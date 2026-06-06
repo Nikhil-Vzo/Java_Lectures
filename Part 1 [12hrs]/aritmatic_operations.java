@@ -1,5 +1,5 @@
 import java.util.*;
-class arithmatic
+class aritmatic_operations
 {
     public static void main(String []args)
     {

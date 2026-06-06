@@ -1,4 +1,4 @@
- class Test2
+ class OPERATOR_PRECEDENCE3
  {
     public static void main(String[] args)
     {

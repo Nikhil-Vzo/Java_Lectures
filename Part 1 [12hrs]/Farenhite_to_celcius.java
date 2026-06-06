@@ -1,5 +1,5 @@
 import java.util.*;
-class f2c
+class Farenhite_to_celcius
 {
     public static void main(String[] args)
         {
