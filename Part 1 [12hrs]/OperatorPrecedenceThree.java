@@ -1,4 +1,4 @@
- class OPERATOR_PRECEDENCE3
+ class OperatorPrecedenceThree
  {
     public static void main(String[] args)
     {

@@ -1,5 +1,5 @@
 import java.util.*;
-class calc_area_of_shapes
+class ShapeAreaCalculator
 {
     public static void main(String []args)
     {

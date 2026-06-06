@@ -1,5 +1,5 @@
 import java.util.*;
-class odd_or_even
+class OddEvenChecker
 {
     public static void main(String []args)
     {

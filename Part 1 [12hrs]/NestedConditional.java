@@ -1,5 +1,5 @@
 import java.util.*;
-class nested_if_else
+class NestedConditional
 {
     public static void main(String[] args)
     {

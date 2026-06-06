@@ -1,5 +1,5 @@
 import java.util.*;
-class Farenhite_to_celcius
+class TemperatureConverter
 {
     public static void main(String[] args)
         {

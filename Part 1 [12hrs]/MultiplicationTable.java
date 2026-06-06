@@ -1,5 +1,5 @@
 import java.util.*;
-public class Multi_table_for_a_given_no {
+public class MultiplicationTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number for multiplication");

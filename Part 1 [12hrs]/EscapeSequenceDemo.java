@@ -1,5 +1,5 @@
 import java.util.*;
- class Esacpe_Sequence
+ class EscapeSequenceDemo
 {
     public static void main(String []args)
     {

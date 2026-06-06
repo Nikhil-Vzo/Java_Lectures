@@ -1,5 +1,5 @@
 import java.util.*;
-public class garding
+public class GradingSystem
 {
     public static void main(String[] args) {
         Scanner nikhil=new Scanner(System.in);

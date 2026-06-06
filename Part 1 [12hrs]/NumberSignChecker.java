@@ -1,7 +1,7 @@
 // wap to check whether a no. is +ve -ve or zero
 
 import java.util.*;
-class check_postoive_or_negative
+class NumberSignChecker
 {
     public static void main(String []args)
     {

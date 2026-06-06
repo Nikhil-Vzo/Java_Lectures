@@ -1,5 +1,5 @@
 import java.util.*;
-class else_if
+class ConditionalStatementExample
 {
     public static void main(String[] args)
     {

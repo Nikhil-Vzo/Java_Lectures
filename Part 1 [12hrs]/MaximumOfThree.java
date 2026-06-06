@@ -1,5 +1,5 @@
 import java.util.*;
-class greatest_AMONG_3
+class MaximumOfThree
 {
     public static void main(String []args)
     {

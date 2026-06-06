@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class math_max
+class MaximumValueFinder
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

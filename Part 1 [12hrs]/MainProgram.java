@@ -1,7 +1,7 @@
 
 import java.io.*;
 
-class whatever {
+class MainProgram {
     public static void main(String[] args)
     {
         String[] names = { "Sweta", "Gudly", "Amiya" };
