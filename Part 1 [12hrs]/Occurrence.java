@@ -1,3 +1,4 @@
+//wap to find maximum occurrence of a given no in an array
 import java.util.*;
 
 
